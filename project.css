@@ -1,0 +1,10 @@
+div{
+    display: inline;
+}
+button{
+    background-color: rgba(0, 0, 0, 0.934);
+    padding: 3px;
+}
+strong{
+    color: rgb(218, 229, 229);
+}
